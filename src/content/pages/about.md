@@ -13,6 +13,6 @@ Over the years, I've worked on all sorts of projects, from web applications and 
 
 This blog is where I write about projects I'm working on, technical decisions, problems I've run into, and things worth sharing.
 
-If you want to know more about my experience, you can check out my [CV](https://cv.erdemozveren.com).
+If you want to know more about my experience, you can check out my [CV](https://erdemozveren.com/cv).
 
 You can also find me on [GitHub](https://github.com/erdemozveren) or [LinkedIn](https://www.linkedin.com/in/erdemozveren/).

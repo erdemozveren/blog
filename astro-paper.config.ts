@@ -6,7 +6,7 @@ export default defineAstroPaperConfig({
     title: "Erdem Özveren",
     description: "Personal blog about software development, projects, and technical decisions.",
     author: "Erdem Özveren",
-    profile: "https://cv.erdemozveren.com",
+    profile: "https://erdemozveren.com/cv",
     ogImage: "default-og.png",
     lang: "en",
     timezone: "Europe/Istanbul",
